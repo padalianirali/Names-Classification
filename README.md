@@ -1,2 +1,3 @@
-# Gender-Classification
-Classifying and predicting names into MALE or FEMALE using Gaussian Naive Bayes Classifier
+Agenda: Classifying and predicting names 
+Type: Binary Supervised Classification
+Algorithm: Naive Bayes Classification Algorithm
