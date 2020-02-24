@@ -1,3 +1,3 @@
-Agenda: Classifying and predicting names 
-Type: Binary Supervised Classification
-Algorithm: Naive Bayes Classification Algorithm
+Agenda: Classifying and predicting names </br>
+Type: Binary Supervised Classification </br>
+Algorithm: Naive Bayes Classification Algorithm </br>
